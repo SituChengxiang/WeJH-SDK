@@ -14,7 +14,7 @@
 ### 使用
 
 ```
-go get github.com/zjutjh/WeJH-SDK
+go get github.com/SituChengxiang/WeJH-SDK
 ```
 
 ### 代码规范检查

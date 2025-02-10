@@ -3,11 +3,11 @@ package wechatHelper
 import (
 	"context"
 
+	"github.com/SituChengxiang/WeJH-SDK/redisHelper"
 	"github.com/silenceper/wechat/v2"
 	"github.com/silenceper/wechat/v2/cache"
 	"github.com/silenceper/wechat/v2/miniprogram"
 	miniConfig "github.com/silenceper/wechat/v2/miniprogram/config"
-	"github.com/zjutjh/WeJH-SDK/redisHelper"
 )
 
 // InfoConfig 微信小程序配置

@@ -4,10 +4,10 @@ import (
 	"fmt"
 	"strconv"
 
+	"github.com/SituChengxiang/WeJH-SDK/redisHelper"
 	"github.com/gin-contrib/sessions"
 	sessionRedis "github.com/gin-contrib/sessions/redis"
 	"github.com/gin-gonic/gin"
-	"github.com/zjutjh/WeJH-SDK/redisHelper"
 )
 
 // InfoConfig 会话配置

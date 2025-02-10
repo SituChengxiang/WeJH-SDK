@@ -5,8 +5,8 @@ import (
 	"regexp"
 
 	"github.com/PuerkitoBio/goquery"
+	"github.com/SituChengxiang/WeJH-SDK/oauth/oauthException"
 	"github.com/go-resty/resty/v2"
-	"github.com/zjutjh/WeJH-SDK/oauth/oauthException"
 )
 
 // getLoginMsg 获取登陆失败后页面上的提示语

@@ -4,8 +4,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/zjutjh/WeJH-SDK/oauth"
-	"github.com/zjutjh/WeJH-SDK/oauth/oauthException"
+	"github.com/SituChengxiang/WeJH-SDK/oauth"
+	"github.com/SituChengxiang/WeJH-SDK/oauth/oauthException"
 )
 
 func TestLogin(t *testing.T) {
