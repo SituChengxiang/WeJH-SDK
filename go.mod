@@ -1,6 +1,6 @@
-module github.com/zjutjh/WeJH-SDK
+module github.com/SituChengxing/WeJH-SDK
 
-go 1.22.9
+go 1.23.5
 
 require (
 	github.com/PuerkitoBio/goquery v1.9.3
